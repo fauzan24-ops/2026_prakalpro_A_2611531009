@@ -1,7 +1,0 @@
-print("Hello World")
-print()
-print("Program ini menghasilkan")
-print("Empat baris output")
-print()
-print("print(\"\\\\ \\\\ /// \\\\\\ // / \")")
-print("Program ini" + " dibuat oleh " + "Muhammad Fauzan NIM 2611531009")
