@@ -9,4 +9,3 @@ print("Tempat dan tanggal lahir saya adalah", tempat_lahir)
 print("Umur saya adalah", str(umur))
 print("Tinggi badan saya adalah", str(tinggi_badan) + "cm")
 print("Berat badan saya adalah", str(berat_badan) + "kg")
-
